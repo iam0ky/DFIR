@@ -34,3 +34,10 @@ https://kasescenarios.com/
 | | https://digitalcorpora.org |DigitalCorpora.org is a website of digital corpora for use in computer forensics education research. All of the disk images, memory dumps, and network packet captures available on this website are freely available and may be used without prior authorization or IRB approval.  |
 
 
+**REVERSE ENGINEERING**
+|URL| Description |
+| --- | ------------ |
+|https://malwaretech.com/challenges/windows-reversing | |
+https://github.com/MalwareTech/Beginner-Reversing-Challenges    |              |
+| | |
+
