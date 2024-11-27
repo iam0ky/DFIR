@@ -14,6 +14,11 @@ Open-Source Intelligence (OSINT) is defined as intelligence produced by collecti
 
 https://kasescenarios.com/
 
+**Live off The Land projects**
+
+| Project Name          | URL         |   
+| ------------- | ------------- |
+| Living of Land Remote Monitoring and Management    | http://lolrmm.io |
 
 **RED TEAM TOOLS**
 
